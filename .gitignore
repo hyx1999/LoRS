@@ -1,0 +1,20 @@
+.vscode
+checkpoints
+datasets
+3dparty
+bak
+scripts_local
+rsync_dir.sh
+rsync_scripts.sh
+results
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+build
+dist
+*.egg-info
+# Log
+misc
